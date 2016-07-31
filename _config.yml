@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://joshgiambi.github.io
+title: Radiation Oncology
+tagline: Information 
+description: My awesome new site
+paginate: 10
